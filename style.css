@@ -1,0 +1,13 @@
+body{
+    background-image: radial-gradient(red,green, aqua);
+}
+img {
+    height: 300px;
+    width: 350px;
+}
+.item {
+    text-align: center;
+}
+.item active {
+    text-align: center;
+}
